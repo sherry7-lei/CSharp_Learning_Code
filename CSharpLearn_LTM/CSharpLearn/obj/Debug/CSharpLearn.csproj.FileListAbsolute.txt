@@ -1,0 +1,8 @@
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\CSharpLearn.exe.config
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\CSharpLearn.exe
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\CSharpLearn.pdb
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csproj.AssemblyReference.cache
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csproj.SuggestedBindingRedirects.cache
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csproj.CoreCompileInputs.cache
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.exe
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.pdb
