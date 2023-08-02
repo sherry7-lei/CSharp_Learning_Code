@@ -6,11 +6,15 @@ using System.Threading.Tasks;
 using MyLib.MyNameSpace;
 using MyLib.MyNameSpaceT;
 
+/*====================================================================================================*/
+// 1. 当声明一个类时：只能用 public 或 internal 修饰
+// 2. 当在类中声明一个字段、属性、方法、类等成员时， 可以用public private protect interval
+/*====================================================================================================*/
 
 namespace CSharpLearn
 {
     /*
-    internal class _24_Class_Declarations
+    internal class Program
     {
         static void Main(string[] args)
         {

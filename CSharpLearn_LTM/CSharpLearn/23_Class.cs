@@ -5,11 +5,18 @@ using System.Runtime.CompilerServices;
 using System.Text;
 using System.Threading.Tasks;
 
+/*====================================================================================================*/
+//                                              类
+// 可以通过 实例化 / 反射 / 动态 三种方式来创建对象
+// 类一般用public / internal修饰
+// 类内部的构造函数（默认构造、带参构造、静态构造），析构函数，字段，属性，成员方法等
+/*====================================================================================================*/
+
 namespace CSharpLearn
 {
+    /*
     internal class _23_Class
     {
-        /*
         static void Main(string[] args)
         {
             // 正常用类实例化对象
@@ -27,10 +34,8 @@ namespace CSharpLearn
             Student stu3 = d as Student;
             Console.WriteLine($"The {stu3.ID} number student's name is {stu3.Name}");
         }
-        */
     }
 
-    /*
     class Student
     {
         // 静态属性

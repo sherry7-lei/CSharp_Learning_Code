@@ -4,10 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*====================================================================================================*/
+//                                          继承
+// 基类中存在的字段/属性/方法，派生类可以全部继承
+// （除带参构造函数，基类具有带参构造函数时，需要在派生类中显示实现构造函数，并在初始化列表中给基类构造赋值）
+
+// 基类中private的字段，派生类会继承但是无法进行操作
+// （如果基类提供了private字段的接口，派生类中可以通过调用接口来获取/修改）
+
+// 派生类实例化对象：先调用基类构造 -> 派生类构造 -> 派生类析构 -> 基类析构
+/*====================================================================================================*/
+
 namespace CSharpLearn
 {
     /*
-    internal class _25_Class_Timothy
+    internal class Program
     {
         static void Main(string[] args)
         {
@@ -16,7 +27,7 @@ namespace CSharpLearn
             student.Do2();
         }
     }
-
+    
     public class Person
     {
         public int Id { get; set; }

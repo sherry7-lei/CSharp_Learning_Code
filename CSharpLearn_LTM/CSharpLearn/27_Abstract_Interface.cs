@@ -4,11 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+/*====================================================================================================*/
+//（1）创建Car和Truck类并声明成员方法，两个类中的Stop方法重复，违反了SOLID设计原则，对其进行修改。
+//（2）将Car和Truck中重复的Stop方法放到基类中，通过继承来解决问题,但此时无法通过基类调用Run方法，通过多态来解决
+//（3）Vehicle作为基类，其中的Run方法中存在逻辑，提高了测试负担，因此通过删除Run方法的函数体，将其作为抽象类（纯虚方法）解决问题
+//（4）Vehicle成为抽象类之后，添加新的派生类更为简易，有了抽象类，就有纯抽象类
+//（5）纯抽象类VehicleBase
+//（6）纯抽象类是C++中使用的，在C#中用接口来代替
+/*====================================================================================================*/
+
 namespace CSharpLearn
 {
-    internal class _27_Abstract_Interface
+    /*
+    internal class Program
     {
-        /*
+        
         static void Main(string[] args)
         {
             Vehicle v1 = new Car();
@@ -18,12 +28,12 @@ namespace CSharpLearn
             Vehicle v3 = new RaceCar();
             v3.Run();
         }
-        */
+        
     }
+    */
 
     /*---------------------*/ /*----抽象类与开闭原则----*/ /*---------------------*/
     /*------ （1）创建Car和Truck类并声明成员方法，两个类中的Stop方法重复，违反了SOLID设计原则，对其进行修改。------*/
-    // 
     /*
     class Car
     {

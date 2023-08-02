@@ -5,6 +5,14 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
+/*====================================================================================================*/
+// 重写 和 重定义
+// 重定义（隐藏）：基类和派生类中具有相同函数名的方法，又无override修饰，即构成隐藏，什么类型的变量调用什么类型的方法
+// 重写（多态）：函数成员(函数成员才能继承) +
+//               可见（public/protected） +
+//               签名一致（方法名称 + 类型形参的个数 + 每个形参的类型和种类）
+/*====================================================================================================*/
+
 namespace CSharpLearn
 {
     /*
@@ -26,6 +34,7 @@ namespace CSharpLearn
 
         }
     }
+
     public class Person
     {
         public int Id { get; set; }
@@ -47,6 +56,7 @@ namespace CSharpLearn
     */
 
     // 多态
+    /*
     public class Program
     {
         static void Main(string[] args)
@@ -87,6 +97,7 @@ namespace CSharpLearn
             Console.WriteLine($"Person work hard, my money is {_rmb}");
         }
     }
+
     class Student : Person
     {
         public string Address { get; set; }
@@ -98,7 +109,7 @@ namespace CSharpLearn
             get { return _dollar; }
             set { _dollar = value; }
         }
-        
+
         // 隐藏
         public void Report()
         {
@@ -112,4 +123,5 @@ namespace CSharpLearn
             Console.WriteLine($"Student work hard, my money is {_dollar}");
         }
     }
+    */
 }

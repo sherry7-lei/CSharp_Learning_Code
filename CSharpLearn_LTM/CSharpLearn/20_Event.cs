@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace CSharpLearn
 {
+    /*
     internal class _20_Event
     {
 
     }
+    */
 }

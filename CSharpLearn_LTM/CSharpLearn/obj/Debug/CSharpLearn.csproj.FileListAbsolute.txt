@@ -6,3 +6,16 @@ D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csp
 D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csproj.CoreCompileInputs.cache
 D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.exe
 D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.pdb
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\MyLib.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\MyLib.pdb
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\obj\Debug\CSharpLearn.csproj.CopyComplete
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\SIC\代码编写\C#Code\CSharpLearn_LTM\CSharpLearn\bin\Debug\System.Threading.Tasks.Extensions.xml
