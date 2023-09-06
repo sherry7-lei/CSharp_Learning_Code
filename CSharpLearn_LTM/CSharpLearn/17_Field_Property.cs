@@ -32,13 +32,13 @@ namespace CSharpLearn
         public static double AverageAge;
         public static double AverageScore;
 
-        // 3.只读字段只能在声明的时候进行初始化，后续只能读取字段，无法进行修改
+        // 3.只读字段只能在声明的时候进行初始化(实例构造函数)，后续只能读取字段，无法进行修改
         // （1）实例只读字段
         public readonly double id;
         // （2）静态只读字段
         public static readonly double ACount;
 
-        // 4.实例字段和静态字段都可以在声明时赋值，或在 实例/静态 构造函数中进行赋值
+        // 4.实例字段和静态字段都可以在声明时赋值(静态构造函数)，或在 实例/静态 构造函数中进行赋值
         // （1）实例构造
         public Student()
         {
